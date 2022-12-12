@@ -14,5 +14,10 @@
 1. make sure your script has execution permission ``chmod u+x file_name``
 1. save file name into variable $CFILE by exporting ``export CFILE=filename.c``
 1. run your script ``./scriptname``
+
+## c files
+1. in this repo all c files utilizes betty code style
+1. when compiling the c programs we will use``gcc -Wall -Werror -Wextra -pedantic -std=gnu89`` flags followed by the file_name and output name
+1. when compiling 6-sizes (to check various zizes of data types on diferrent computers) we'll use ``gcc 6-size.c -m32 -o size32 2> /tmp/32`` or ``gcc 6-size.c -m64 -o size64 2> /tmp/64``
 ___
 Author: [Elvis Wangari](https://linkedin.com/in/elvis-wangari)
