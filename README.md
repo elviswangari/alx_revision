@@ -1,6 +1,6 @@
 # Recap of all ALX projects
 
-<b> low_level_programming </b></br>
+## low_level_programming </br>
 contains:
 
 1. Hello World - a repo containig bash and c code
@@ -26,7 +26,7 @@ contains:
 1. file I/O
 1. Double linked lists
 
-<b> Higher level programming languange </b></br>
+## Higher level programming </br>
 contains:
 
 1. Hello World in python
@@ -35,6 +35,11 @@ contains:
 1. lists and tuples
 1. set and dictionary
 
+
+## System engineering devops <br>
+contains:
+
+1. configuration management
 ___
 
 Author: [Elvis Wangari](https://linkedin.com/in/elvis-wangari)
